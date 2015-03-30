@@ -1,4 +1,4 @@
-package com.company;
+package nyc.c4q.reinardcox;
 
 public class Main {
 
