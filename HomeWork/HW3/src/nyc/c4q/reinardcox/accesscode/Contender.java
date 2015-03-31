@@ -1,4 +1,4 @@
-package nyc.c4q.reinardcox;
+package nyc.c4q.reinardcox.accesscode;
 /**
  * A representation for a election Contender
  */

@@ -1,5 +1,11 @@
 package nyc.c4q.reinardcox;
 
+import nyc.c4q.reinardcox.accesscode.Contender;
+import nyc.c4q.reinardcox.accesscode.Election;
+import nyc.c4q.reinardcox.accesscode.ElectionManager;
+
+import java.util.Scanner;
+
 /**
  * Created by shadowslimmedia on 3/27/15.
  */
@@ -7,29 +13,21 @@ public class VotingSimulator {
 
     public static void main(String[] args) {
 
-        System.out.println("Would you like to create an Election?");
+        Election election = new Election("The Best Mixtape DJ");
 
+        Contender canidateOne = new Contender("DJ Shadow Slim");
+        Contender canidateTwo = new Contender("DJ Keyz");
+        Contender canidateThree = new Contender("Heather B Nyce");
 
+        election.add(canidateOne);
+        election.add(canidateTwo);
+        election.add(canidateThree);
 
+        ElectionManager mediator  = new ElectionManager();
 
-        Election music = new Election("DJS");
-
-        Contender con1 = new Contender("John");
-        Contender con2 = new Contender("Mike");
-
-        music.add(con1);
-        music.add(con2);
-
-        ElectionManager manager = new ElectionManager();
-
-        manager.manage(music);
-
-        manager.initiatePolling();
-
-        manager.displayResults();
-
-
-
+        mediator.manage(election);
+        mediator.initiatePolling();
+        mediator.displayResults();
 
     }
 

@@ -1,4 +1,6 @@
-package nyc.c4q.reinardcox;
+package nyc.c4q.reinardcox.accesscode;
+
+import nyc.c4q.reinardcox.accesscode.Election;
 
 import java.util.ArrayList;
 import java.util.Scanner;
