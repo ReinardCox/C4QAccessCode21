@@ -1,4 +1,4 @@
-package nyc.c4q.reinardcox.accesscode;
+package nyc.c4q.reinardcox;
 
 /**
  * Created by shadowslimmedia on 3/26/15.

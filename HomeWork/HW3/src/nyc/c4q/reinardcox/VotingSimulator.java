@@ -1,11 +1,5 @@
 package nyc.c4q.reinardcox;
 
-import nyc.c4q.reinardcox.accesscode.Contender;
-import nyc.c4q.reinardcox.accesscode.Election;
-import nyc.c4q.reinardcox.accesscode.ElectionManager;
-
-import java.util.Scanner;
-
 /**
  * Created by shadowslimmedia on 3/27/15.
  */

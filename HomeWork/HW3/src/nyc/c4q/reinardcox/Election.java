@@ -1,6 +1,4 @@
-package nyc.c4q.reinardcox.accesscode;
-
-import nyc.c4q.reinardcox.accesscode.Contender;
+package nyc.c4q.reinardcox;
 
 import java.util.ArrayList;
 import java.util.Scanner;
