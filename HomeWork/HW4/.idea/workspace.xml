@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58aaad3e-1ba3-4c26-b00e-80ea1daf9c88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/AC_03_31/AC_03_31.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/reinardcox/DistributionCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW3/src/nyc/c4q/reinardcox/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/reinardcox/LinearSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/AC_04_02/src/nyc/c4q/reinardcox/Scratch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/AC_04_02/src/nyc/c4q/reinardcox/VamosALaPlaya.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/reinardcox/WebPageSanitizer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ClassWork/AC_04_02/.idea/uiDesigner.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/Main.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/accesscode/CaesarCipher.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/accesscode/Contender.class" afterPath="" />
@@ -18,9 +9,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/accesscode/ElectionManager.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/accesscode/Person.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/VotingSimulator.class" afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/nyc/c4q/reinardcox/VotingSimulator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/reinardcox/Main.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/reinardcox/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HW3/src/nyc/c4q/reinardcox/HelloWorld.java" afterPath="$PROJECT_DIR$/../HW3/src/nyc/c4q/reinardcox/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassWork/AC_04_02/src/nyc/c4q/reinardcox/Scratch.java" afterPath="$PROJECT_DIR$/../../ClassWork/AC_04_02/src/nyc/c4q/reinardcox/Scratch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ClassWork/AC_04_02/src/nyc/c4q/reinardcox/VamosALaPlaya.java" afterPath="$PROJECT_DIR$/../../ClassWork/AC_04_02/src/nyc/c4q/reinardcox/VamosALaPlaya.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HW3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HW3/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HW4.iws" />
     <ignored path=".idea/workspace.xml" />
