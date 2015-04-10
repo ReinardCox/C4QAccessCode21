@@ -32,3 +32,23 @@ public class LinearSearch {
         return -1;
     }
 }
+
+
+/**
+ * -- primitive type
+ * int
+ * boolean
+ * double
+ * char
+ * byte
+ * float
+ * long
+ * short
+ *
+ * -- define a method:
+ * -- calling a method
+ * --
+ */
+
+
+
