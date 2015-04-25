@@ -9,13 +9,6 @@ public class Fibonacci {
 
     public static void main(String[] args) {
 
-        ArrayList<Integer> fibonacci = new ArrayList<Integer>();
-        fibonacci.add(0);
-        fibonacci.add(1);
-        fibonacci.add(1);
-
-
-
         fibonacciLoop(10);
 
     }
